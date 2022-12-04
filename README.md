@@ -23,7 +23,7 @@
 
 ### GitHub Stats
 
-  <img align="left" alt="Oni's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Oni01110011&show_icons=true&theme=tokyonight" />
+  <img align="left" alt="Limbos's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Limbokong&show_icons=true&theme=tokyonight" />
 
 <br />
 <br />
