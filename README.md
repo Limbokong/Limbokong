@@ -43,6 +43,6 @@
 - Working on my first DevLog
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/channel/UCexkoW55dKUyvgx4rSs7blA)
+➡️ [more videos...](https://www.youtube.com/channel/@Limbokong)
 
 ---
