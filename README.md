@@ -1,5 +1,5 @@
 <h1 align="center">Milo - Limbokong</h1>
-<h3 align="center">A passionate Game Developer from Austria</h3>
+<h3 align="center">i make game.</h3>
 
 
 mail: **limbokong123@gmail.com**
